@@ -22,6 +22,6 @@
 <h3 align="left">Find me around the web 🌎:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dahri-fatima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dahri fatima" height="30" width="40" /></a>
-  I invite you to consult my website:
-  <a href="https://dahrif.github.io/dahrif/" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="portfolio" width="40" height="40"/> </a>
+ <p align="left"><h3> I invite you to consult my website: </h3></p>
+ <p> <a href="https://dahrif.github.io/dahrif/" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="portfolio" width="40" height="40"/> </a>
   </p>
