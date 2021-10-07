@@ -13,6 +13,8 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+ <a href="https://icons8.com/icon/v9uZbuVoWleB/wordpress" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png" alt="w" width="40" height="40"/> </a>
+<a href="https://icons8.com/icon/115298/woocommerce" target="_blank"> <img src="https://img.icons8.com/color/48/000000/woocommerce.png" alt="w" width="40" height="40"/> </a>
 
 
 
@@ -20,4 +22,5 @@
 <h3 align="left">Find me around the web 🌎:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dahri-fatima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dahri fatima" height="30" width="40" /></a>
+  <a href="https://dahrif.github.io/dahrif/" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="portfolio" width="40" height="40"/> </a>
   </p>
