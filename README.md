@@ -5,7 +5,15 @@
 </p>
 
 
-<p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=dahrif&show_icons=true&locale=en&layout=compact" alt="dahrif" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=dahrif&show_icons=true&theme=synthwave" alt="dahrif:: Profile Stats" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahrif&langs_count=10&theme=tokyonight&layout=compact" alt="dahrif:: Top Langs" /></p>
+
+
+<br/>
+
+<table align="center" border="0">
+ <tr>
+    <td>
 <h3 align="left">Languages and Tools:</h3> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
@@ -30,10 +38,13 @@
 <a href="https://icons8.com/icon/115298/woocommerce" target="_blank"> <img src="https://img.icons8.com/color/48/000000/woocommerce.png" alt="w" width="40" height="40"/> </a>
 
 </p>
-
-<h3 align="left">Find me around the web 🌎:</h3>
+</td>
+    <td><h3 align="left">Find me around the web 🌎:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dahri-fatima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dahri fatima" height="30" width="40" /></a>
  <p align="left"><h3> I invite you to consult my website: </h3></p>
  <p> <a href="https://dahrif.github.io/fatimadahri/" target="_blank"> <img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="portfolio" width="40" height="40"/> </a>
-</p>
+</p></td>
+ </tr>
+
+</table>
